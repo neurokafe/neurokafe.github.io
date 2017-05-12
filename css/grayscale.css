@@ -25,11 +25,13 @@ h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   letter-spacing: 1px;
+  background-color: black;
 }
 p {
   margin: 0 0 25px;
   font-size: 18px;
   line-height: 1.5;
+  background-color: black;
 }
 @media (min-width: 768px) {
   p {
@@ -420,7 +422,4 @@ body {
   padding: 10px;
   text-shadow: 2px 2px #000;
   color: #FFF;
-}
-.jumbotron {
-  background-color: black;
 }
